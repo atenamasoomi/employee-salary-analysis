@@ -46,7 +46,7 @@ The dataset (`employee\_pro.xlsm`) contains **474 employee records** with the fo
 ### 📈 Salary Correlations
 
 * **Salary \& Starting Salary**: Very strong positive correlation (*r* = 0.861, *p* < 0.0001) — employees who started higher tend to stay higher.
-![Salary Scatter Plot](Visual/scatter_salaryVSsalbegin.png)
+![Salary Scatter Plot](Visuals/scatter_salaryVSsalbegin.png)
 * **Salary \& Education**: Significant positive correlation (*r* = 0.642, *p* < .001) — more education leads to higher pay.
 * **Starting Salary \& Education**: Also positively correlated (*r* = 0.625, *p* < .001).
 * **Salary \& Age / Previous Experience**: Weak negative correlations (*r* = −0.168 and *r* = −0.127 respectively), both statistically significant but of limited practical effect.
